@@ -1,8 +1,9 @@
 # **MyStory-App**
+An android app for practicing most likely important android features. e.g: Maps, Auth, Local Database
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
 
-<img src="https://user-images.githubusercontent.com/99384080/226166544-60025314-3ae2-4100-bc00-e5d9bfade3aa.gif" width="200"> <img src="https://user-images.githubusercontent.com/99384080/226166549-6a3cb12e-8f6c-4ed8-9a85-794ba127f285.gif" width="200"> <img src="https://user-images.githubusercontent.com/99384080/226166556-7b81b5f8-1833-4c9f-9553-6797e7052b62.gif" width="200">
+<img src="https://user-images.githubusercontent.com/99384080/226166556-7b81b5f8-1833-4c9f-9553-6797e7052b62.gif" width="200"> <img src="https://user-images.githubusercontent.com/99384080/226166544-60025314-3ae2-4100-bc00-e5d9bfade3aa.gif" width="200"> <img src="https://user-images.githubusercontent.com/99384080/226166549-6a3cb12e-8f6c-4ed8-9a85-794ba127f285.gif" width="200"> 
 
 [Screenshot App]
 
